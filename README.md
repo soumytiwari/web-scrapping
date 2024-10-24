@@ -43,7 +43,7 @@ This project is a web scraper designed to extract data from various websites, in
 
 To run the scraper, execute:
 ```bash
-node scraper.js
+node <file_name_to_run(ex: scraper.js)>
 ```
 
 This will initiate the scraping process according to the specified configurations in your script.
