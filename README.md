@@ -1,6 +1,4 @@
-I apologize for that! Here’s a more concise README without the code block, focusing on providing useful information without overwhelming details.
 
----
 
 # Web Scraper
 
@@ -53,6 +51,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust any sections or add specific instructions related to your project!
