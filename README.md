@@ -25,8 +25,8 @@ This project is a web scraper designed to extract data from various websites, in
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/soumytiwari/web-scrapping.git
+   cd web-scrapping
    ```
 
 2. Install dependencies:
