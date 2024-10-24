@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "Anoop sharma",
+      "ids": [
+        "CAM-1",
+        "CAM-4",
+        "CAM-7"
+      ]
+    },
+    {
+      "name": "Yogesh",
+      "ids": [
+        "CAM-2",
+        "CAM-3",
+        "CAM-6"
+      ]
+    },
+    {
+      "name": "Suresh",
+      "ids": [
+        "CAM-9",
+        "CAM-5"
+      ]
+    },
+    {
+      "name": "Shankar Kumar",
+      "ids": [
+        "CAM-8"
+      ]
+    },
+    {
+      "name": "Ramesh",
+      "ids": [
+        "CAM-10"
+      ]
+    }
+  ]
+}

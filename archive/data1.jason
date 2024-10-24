@@ -1,0 +1,70 @@
+Cards: [
+  {
+    "group": "Todo",
+    "group_card_count": "3",
+    "tickets": [
+      {
+        "id": "CAM-1",
+        "title": "Update User Profile Page UI",
+        "priority": "Urgent"
+      },
+      {
+        "id": "CAM-9",
+        "title": "Upgrade Server Infrastructure",
+        "priority": "Medium"
+      },
+      {
+        "id": "CAM-6",
+        "title": "Third-Party Payment Gateway",
+        "priority": "Low"
+      }
+    ]
+  },
+  {
+    "group": "In progress",
+    "group_card_count": "5",
+    "tickets": [
+      {
+        "id": "CAM-2",
+        "title": "Add Multi-Language Support - Enable multi-language support within the application.",
+        "priority": "High"
+      },
+      {
+        "id": "CAM-4",
+        "title": "Implement Email Notification System",
+        "priority": "High"
+      },
+      {
+        "id": "CAM-8",
+        "title": "Implement Role-Based Access Control (RBAC)",
+        "priority": "High"
+      },
+      {
+        "id": "CAM-3",
+        "title": "Optimize Database Queries for Performance",
+        "priority": "Low"
+      },
+      {
+        "id": "CAM-5",
+        "title": "Enhance Search Functionality",
+        "priority": "No"
+      }
+    ]
+  },
+  {
+    "group": "Backlog",
+    "group_card_count": "2",
+    "tickets": [
+      {
+        "id": "CAM-7",
+        "title": "Create Onboarding Tutorial for New Users",
+        "priority": "Medium"
+      },
+      {
+        "id": "CAM-10",
+        "title": "Conduct Security Vulnerability Assessment",
+        "priority": "Low"
+      }
+    ]
+  }
+]
