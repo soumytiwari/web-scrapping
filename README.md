@@ -29,7 +29,12 @@ This project is a web scraper designed to extract data from various websites, in
    cd web-scrapping
    ```
 
-2. Install dependencies:
+2. Go in the file you want to run:
+   ```bash
+   cd <file-name>
+   ```
+
+4. Install dependencies:
    ```bash
    npm install
    ```
