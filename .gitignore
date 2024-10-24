@@ -1,1 +1,9 @@
-node_modules/
+archive2/node_modules/
+scraper/node_modules/
+scraper/package-lock.json
+puppeteer_use/node_modules/
+puppeteer/package-lock.json
+play_wright/node_modules/
+play_wright/package-lock.json
+
+
